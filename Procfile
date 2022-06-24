@@ -1,0 +1,1 @@
+web: heroko-php-apache2 public/
